@@ -1,4 +1,5 @@
-# Bank Analytics - 
+# Bank Analytics  
+
 
 ## Loan Details
 ![image](https://github.com/vs-dataanalyst/Excel-Dashboard---Bank-Data-Analytics-/assets/151951492/b5e2beb0-bd79-48e1-90d4-0e0309b735bb)
